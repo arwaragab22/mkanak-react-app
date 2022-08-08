@@ -1,0 +1,47 @@
+.nav{
+    background-color: #534340;
+    height: 70px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    color:white
+}
+.nav .logo{
+    font-size: 22px;
+        text-transform: capitalize;
+        cursor: pointer;
+    color:#C5D8A4;
+    font-weight: 600;
+}
+ul{
+    list-style: none;
+    display: flex;
+   
+    justify-content: space-between;
+}
+ .nav ul li{
+margin-left: 30px;
+font-size: 22px;
+
+cursor: pointer;
+}
+
+
+@media screen and (max-width:520px) {
+    .nav{
+        flex-direction: column;
+    }
+    .nav ul{
+      padding: 0px;
+      align-items: center;
+      justify-content: center;
+      
+    }
+    .nav ul li button{
+        font-size: 16px;
+    }
+    .nav .name{
+        font-size: 14px;
+    }
+    .nav{height: fit-content;}
+}
