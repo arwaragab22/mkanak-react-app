@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mkanak-react-app.github.io/static/css/main.01a739ad.css",
+    "main.js": "/mkanak-react-app.github.io/static/js/main.994badc0.js",
+    "static/js/787.28cb0dcd.chunk.js": "/mkanak-react-app.github.io/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/mkanak-react-app.github.io/index.html",
+    "main.01a739ad.css.map": "/mkanak-react-app.github.io/static/css/main.01a739ad.css.map",
+    "main.994badc0.js.map": "/mkanak-react-app.github.io/static/js/main.994badc0.js.map",
+    "787.28cb0dcd.chunk.js.map": "/mkanak-react-app.github.io/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.01a739ad.css",
+    "static/js/main.994badc0.js"
+  ]
+}
